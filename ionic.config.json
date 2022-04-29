@@ -1,0 +1,7 @@
+{
+  "name": "mobdev-app",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
